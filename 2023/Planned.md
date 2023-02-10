@@ -11,13 +11,14 @@
 ### Game development 🎮
 
 - bevy.rs
+- Godot
 - Multiplayer
 - Compute Shader
 
 
 ### Low Level
 
-- Auduino
+- Arduino
 - Bare metal code
 
 
